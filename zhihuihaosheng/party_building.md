@@ -47,6 +47,7 @@ BC2 --> B2
 B2 --> C3
 B2 --> C4
 ```
+![avatar](/pb_group.png)
 
 ### 党小组
 
